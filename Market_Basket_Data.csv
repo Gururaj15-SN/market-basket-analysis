@@ -1,0 +1,6 @@
+Transaction,Items
+1,"Milk,Bread"
+2,"Milk,Diaper,Bread,Beer"
+3,"Milk,Diaper,Bread,Coke"
+4,"Bread,Milk,Diaper,Beer"
+5,"Bread,Milk,Diaper,Coke"
